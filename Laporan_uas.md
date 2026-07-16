@@ -690,7 +690,7 @@ Nilai loss yang semakin kecil menunjukkan bahwa model mampu mempelajari pola dat
 ## 7.7 Perbandingan Akhir Kedua Model
 
 <p align="center">
-<img src="images/gambar_10.png" width="600">
+<img src="data/images/gambar_10.png" width="600">
 </p>
 
 **Gambar 7.5** Perbandingan Accuracy Akhir MobileNetV2 dan EfficientNetB0.
@@ -698,7 +698,7 @@ Nilai loss yang semakin kecil menunjukkan bahwa model mampu mempelajari pola dat
 Grafik menunjukkan bahwa MobileNetV2 memperoleh nilai accuracy akhir yang lebih tinggi dibandingkan EfficientNetB0.
 
 <p align="center">
-<img src="images/gambar_11.png" width="600">
+<img src="data/images/gambar_11.png" width="600">
 </p>
 
 **Gambar 7.6** Perbandingan Loss Akhir MobileNetV2 dan EfficientNetB0.
@@ -711,10 +711,10 @@ Seluruh hasil evaluasi dirangkum pada tabel berikut.
 
 | Metrik | MobileNetV2 | EfficientNetB0 |
 |---------|------------:|---------------:|
-| Accuracy | ... | ... |
-| Precision | ... | ... |
-| Recall | ... | ... |
-| F1-Score | ... | ... |
+| Accuracy | 0.9333 | 0.3333 |
+| Precision | 0.94 | 0.11 |
+| Recall | 0.93 | 0.33 |
+| F1-Score | 0.93 | 0.17 |
 
 > Isikan nilai sesuai hasil evaluasi pada notebook.
 
