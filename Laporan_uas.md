@@ -9,8 +9,8 @@
 
 | Nama | NIM |
 |------|-----|
-| Rio Cahya Ramadhan | (Isi NIM) |
-| Nama Anggota | (Isi NIM) |
+| Rio Cahya Ramadhan | 2406077 |
+| Kaka Riscky Ardiana | 2406100 |
 
 ---
 
@@ -174,9 +174,9 @@ Distribusi jumlah data ditampilkan pada tabel berikut.
 
 | Kelas | Train | Validation | Test |
 |--------|------:|-----------:|-----:|
-| Healthy | ... | ... | ... |
-| Leaf Curl | ... | ... | ... |
-| Leaf Spot | ... | ... | ... |
+| Healthy | 80 | 10 | 100 |
+| Leaf Curl | 80 | 10 | 100 |
+| Leaf Spot | 80 | 10 | 100 |
 
 ---
 
