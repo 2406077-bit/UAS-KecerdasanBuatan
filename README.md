@@ -212,49 +212,6 @@ Model terbaik digunakan untuk memprediksi gambar daun cabai yang diunggah penggu
 
 ---
 
-# 📷 Dokumentasi
-
-## Contoh Dataset
-
-<p align="center">
-<img src="images/sample_dataset.png" width="700">
-</p>
-
----
-
-## Grafik Accuracy
-
-<p align="center">
-<img src="images/accuracy_comparison.png" width="700">
-</p>
-
----
-
-## Grafik Loss
-
-<p align="center">
-<img src="images/loss_comparison.png" width="700">
-</p>
-
----
-
-## Confusion Matrix
-
-<p align="center">
-<img src="images/confusion_matrix_mobilenet.png" width="450">
-<img src="images/confusion_matrix_efficientnet.png" width="450">
-</p>
-
----
-
-## Contoh Hasil Prediksi
-
-<p align="center">
-<img src="images/hasil_prediksi.png" width="450">
-</p>
-
----
-
 # 📌 Hasil
 
 Model berhasil mengklasifikasikan citra daun cabai menjadi tiga kelas:
