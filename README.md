@@ -227,6 +227,7 @@ Selanjutnya dilakukan perbandingan performa antara MobileNetV2 dan EfficientNetB
 # 👨‍💻 Author
 
 **Rio Cahya Ramadhan**
+--
 **Kaka Rascky Ardiana**
 
 Institut Teknologi Garut
