@@ -574,8 +574,8 @@ Nilai accuracy diperoleh setelah proses evaluasi model selesai dilakukan.
 
 | Model | Accuracy |
 |--------|---------:|
-| MobileNetV2 | ... |
-| EfficientNetB0 | ... |
+| MobileNetV2 | 0.9333 |
+| EfficientNetB0 | 0.3333 |
 
 > Isi nilai accuracy sesuai hasil output notebook Google Colab.
 
